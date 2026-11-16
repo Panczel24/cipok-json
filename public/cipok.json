@@ -1,0 +1,34 @@
+{
+    "cipok": [
+        {
+            "nev": "Nike Air Max",
+            "ar": 35000,
+            "raktaron": true,
+            "vasarlasDatuma": "2026-11-10"
+        },
+        {
+            "nev": "Adidas Superstar",
+            "ar": 28000,
+            "raktaron": false,
+            "vasarlasDatuma": "2026-11-12"
+        },
+        {
+            "nev": "Puma Suede",
+            "ar": 22000,
+            "raktaron": true,
+            "vasarlasDatuma": "2026-11-15"
+        },
+        {
+            "nev": "Converse Chuck Taylor",
+            "ar": 25000,
+            "raktaron": true,
+            "vasarlasDatuma": "2026-11-14"
+        },
+        {
+            "nev": "Vans Old Skool",
+            "ar": 30000,
+            "raktaron": false,
+            "vasarlasDatuma": "2026-11-16"
+        }
+    ]
+}
