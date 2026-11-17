@@ -1,34 +1,75 @@
 {
-    "cipok": [
-        {
-            "nev": "Nike Air Max",
-            "ar": 35000,
-            "raktaron": true,
-            "vasarlasDatuma": "2026-11-10"
-        },
-        {
-            "nev": "Adidas Superstar",
-            "ar": 28000,
-            "raktaron": false,
-            "vasarlasDatuma": "2026-11-12"
-        },
-        {
-            "nev": "Puma Suede",
-            "ar": 22000,
-            "raktaron": true,
-            "vasarlasDatuma": "2026-11-15"
-        },
-        {
-            "nev": "Converse Chuck Taylor",
-            "ar": 25000,
-            "raktaron": true,
-            "vasarlasDatuma": "2026-11-14"
-        },
-        {
-            "nev": "Vans Old Skool",
-            "ar": 30000,
-            "raktaron": false,
-            "vasarlasDatuma": "2026-11-16"
-        }
-    ]
+  "cipok": [
+    {
+      "nev": "Nike Air Max",
+      "ar": 35000,
+      "raktaron": true,
+      "vasarlasDatuma": "2026-11-10",
+      "id": "oeZjzrY083g"
+    },
+    {
+      "nev": "Adidas Superstar",
+      "ar": 28000,
+      "raktaron": false,
+      "vasarlasDatuma": "2026-11-12",
+      "id": "F7PAyKw8A4E"
+    },
+    {
+      "nev": "Puma Suede",
+      "ar": 22000,
+      "raktaron": true,
+      "vasarlasDatuma": "2026-11-15",
+      "id": "JXnrEp2NMgM"
+    },
+    {
+      "nev": "Converse Chuck Taylor",
+      "ar": 25000,
+      "raktaron": true,
+      "vasarlasDatuma": "2026-11-14",
+      "id": "4LwDL4BQevA"
+    },
+    {
+      "nev": "Vans Old Skool",
+      "ar": 30000,
+      "raktaron": false,
+      "vasarlasDatuma": "2026-11-16",
+      "id": "TfND14eiy6w"
+    },
+    {
+      "nev": "cipo",
+      "ar": 8300,
+      "raktaron": true,
+      "vasarlasDatuma": "2026-11-17T12:51:46.080Z",
+      "id": "Bfkxv15nKQw"
+    },
+    {
+      "nev": "fg",
+      "ar": 456,
+      "raktaron": false,
+      "vasarlasDatuma": "2026-11-17T12:51:51.603Z",
+      "id": "8sdounm5m9U"
+    },
+    {
+      "nev": "zjtzu",
+      "ar": 354545,
+      "raktaron": false,
+      "vasarlasDatuma": "2026-11-17T12:52:05.883Z",
+      "id": "9ll1KQnNymg"
+    },
+    {
+      "nev": "rthfghjfgjgh",
+      "ar": 6765767,
+      "raktaron": true,
+      "vasarlasDatuma": "2026-11-17T12:52:41.406Z",
+      "id": "pTj41fc2I6I"
+    },
+    {
+      "nev": "odfuisfsdff",
+      "ar": 10,
+      "raktaron": true,
+      "vasarlasDatuma": "2026-11-17T13:08:09.042Z",
+      "id": "iJZSX7XwKvg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
